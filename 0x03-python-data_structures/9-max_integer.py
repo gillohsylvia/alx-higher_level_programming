@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-def multiple_returns(sentence):
-    my_tuple = ()
-    if len(sentence) == 0:
-        my_tuple = 0, "None"
-    else:
-        my_tuple = len(sentence), sentence[0]
-    return my_tuple
+def max_integer(my_list=[]):
+    if len(my_list) == 0:
+        return ("None")
+    x = my_list[0]
+    for i in my_list:
+        if i > x:
+            x = i
+    return (x)
