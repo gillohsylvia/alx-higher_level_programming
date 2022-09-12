@@ -1,0 +1,8 @@
+ ./101-main.py 2> /dev/null
+result of my_div: 5.0
+result of my_div: None
+1
+2
+3
+4
+result of print_list: None
