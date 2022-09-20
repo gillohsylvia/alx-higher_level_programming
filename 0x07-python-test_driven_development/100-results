@@ -1,0 +1,8 @@
+./100-main.py
+ 
+[[7, 10], [15, 22]]
+[[13, 16]]
+
+python3 -m doctest -v ./tests/100-matrix_mul.txt | tail -2
+6 passed and 0 failed.
+Test passed.
