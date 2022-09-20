@@ -1,0 +1,8 @@
+./101-main.py
+ 
+[[ 7 10]
+ [15 22]]
+[[13 16]]
+
+
+python3 -m doctest -v ./tests/101-lazy_matrix_mul.txt
