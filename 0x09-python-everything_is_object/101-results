@@ -1,0 +1,3 @@
+./101-main.py
+
+[AttributeError] 'LockedClass' object has no attribute 'last_name'
