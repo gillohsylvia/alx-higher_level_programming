@@ -1,1 +1,1 @@
-This directory is about learning how to work around databases by using the Structured Query Language
+This directory is about learning how to work around databases by using the Structured Query Language known as SQL. 
