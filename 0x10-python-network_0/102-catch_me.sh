@@ -1,3 +1,3 @@
 #!/bin/bash
-# Sends a JSON POST request to a URL and displays a body of response
-curl -sX POST "$1" -H 'Content-Type: application/json' -d "$(cat "$2")"
+# makes a req to 0.0.0.0:5000/catch_me for a response "You got me!"
+curl -sX PUT -L -d "user_id=98" --header "origin: HolbertonSchool" 0.0.0.0:5000/catch_me
