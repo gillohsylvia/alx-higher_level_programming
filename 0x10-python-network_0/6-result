@@ -1,0 +1,11 @@
+./6-main.py
+6
+3
+2
+None
+2
+4
+
+
+ wc -l 6-peak.txt 
+2 6-peak.txt
