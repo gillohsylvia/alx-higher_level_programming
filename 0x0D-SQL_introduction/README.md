@@ -1,7 +1,7 @@
 # SQL Introduction
 # Concepts
-* concept 1
-* * concept 2
+* [concept 1](https://github.com/gillohsylvia/alx-higher_level_programming/blob/master/0x0D-SQL_introduction/concept1.md)
+* concept 2
 
 # Resources
 
